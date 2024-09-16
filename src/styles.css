@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.input-field {
+  font-size: 18px;
+  padding: 6px;
+  margin-bottom: 20px;
+  border-type: solid;
+  border-radius: 5px;
+}
+
+.search-button {
+  font-size: 16px;
+  padding: 5px;
+  margin-left: 10px;
+  cursor: pointer;
+}
